@@ -1,0 +1,13 @@
+Nombre
+ 
+Apellido
+
+Telefono
+direccion
+E-mail
+Documento
+Contraseña
+contrasena
+Genero
+Tipo documento
+Rol	
